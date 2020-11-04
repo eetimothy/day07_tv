@@ -1,4 +1,5 @@
-use tv_shows;
+
+use leisure;
 
 select 'Creating tables...' as '';
 
